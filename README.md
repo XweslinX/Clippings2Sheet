@@ -1,0 +1,2 @@
+# Clippings2Sheet
+Kindle电子书阅读器摘录笔记一键转换工具，导出为Excel表格xlsx文件
