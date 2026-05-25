@@ -1,4 +1,4 @@
-# Clippings2Sheet —— Kindle摘录笔记一键转换工具 📚
+# Clippings2Sheet —— Kindle摘录笔记一键转换工具
 
 **Clippings2Sheet** 是一款高效的 Kindle 笔记整理工具。它能够自动化地完成从 Kindle 设备备份笔记到解析结构化数据转换为Excel文件的全流程。
 
