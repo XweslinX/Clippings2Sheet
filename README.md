@@ -5,6 +5,8 @@
 它解决了 Kindle 原生 `My Clippings.txt` 文件难以阅读、笔记与高亮分离、缺乏排序等痛点，将碎片化的读书记录转化为一份专业、可筛选、可检索的电子表格文件。
 
 (本项目使用Claude Code + Gemma4制作)
+This tool is for exporting and converting Kindle highlights and notes into a single Excel .xlsx file. What you need to do is connecting your kindle to your PC, then launch the .exe file of this tool, and press enter key. It will automatically generate an Excel .xlsx file at the current directory as where the tool is placed.
+2026-7-17 update: English version added
 
 ## 核心特性
 
