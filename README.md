@@ -9,6 +9,8 @@
 This tool is for exporting and converting Kindle highlights and notes into a single Excel .xlsx file. What you need to do is connecting your kindle to your PC, then launch the .exe file of this tool, and press enter key. It will automatically generate an Excel .xlsx file at the current directory as where the tool is placed.
 
 2026-7-17 update: English version added
+中文版请选择Ver 0.1
+For English version, choose Ver 0.2
 
 ## 核心特性
 
